@@ -6,7 +6,7 @@ output:
   bookdown::html_document2
 ---
 
-```{r libraries}
+```{r libraries, message = FALSE}
 library(dplyr)
 library(ggplot2)
 ```
